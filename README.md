@@ -25,5 +25,5 @@ Fetching Data of Friends from JSON file and displaying them in cards in the Home
 App details card showing more data about friends and buttons to interact with them via call, text or Video.
 
 ### 📅 
--A timeline page featuring interaction with friends
+-A timeline page featuring interaction with friends.
 -A stats page displaying stats of this interactions using a Pie Chart.
