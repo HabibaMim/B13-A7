@@ -1,4 +1,3 @@
-KeenKeeper
 # 🌿 KeenKeeper
 
 Keenkeeper project was built using Next.js and it's App router. This project includes homepage which shows friends data fetched from JSON file, a timeline of interaction with friends and statistics of these interactions.
