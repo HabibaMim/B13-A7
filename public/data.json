@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Khadija Aisha",
+    "picture": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?crop=entropy&fit=crop&w=500&h=500",
+    "email": "khadija.aisha@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["project partner"],
+    "bio": "Met during university studies and stayed connected through learning projects.",
+    "goal": 14,
+    "next_due_date": "2025-07-10"
+  },
+  {
+    "id": 2,
+    "name": "Ummu Habiba",
+    "picture": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?crop=entropy&fit=crop&w=500&h=500",
+    "email": "ummu.habiba@example.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["developer"],
+    "bio": "Enjoys discussing healthy habits and personal growth.",
+    "goal": 10,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 3,
+    "name": "Maimuna Juwairiya",
+    "picture": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?crop=entropy&fit=crop&w=500&h=500",
+    "email": "maimuna.juwairiya@example.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": ["school friend", "gaming"],
+    "bio": "School friend who enjoys strategy games and learning challenges.",
+    "goal": 21,
+    "next_due_date": "2025-07-05"
+  },
+  {
+    "id": 4,
+    "name": "Ummu Salama",
+    "picture": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?crop=entropy&fit=crop&w=500&h=500",
+    "email": "ummu.salama@example.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["neighbor"],
+    "bio": "Interested in web development and UI design systems.",
+    "goal": 14,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 5,
+    "name": "Hafsa Zainab",
+    "picture": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&fit=crop&w=500&h=500",
+    "email": "hafsa.zainab@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["travel", "photography"],
+    "bio": "Enjoys capturing landscapes and natural scenery.",
+    "goal": 7,
+    "next_due_date": "2025-07-30"
+  },
+  {
+    "id": 6,
+    "name": "Sawda Safiya",
+    "picture": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?crop=entropy&fit=crop&w=500&h=500",
+    "email": "sawda.safiya@example.com",
+    "days_since_contact": 27,
+    "status": "overdue",
+    "tags": ["college"],
+    "bio": "Active in local community activities and environment care.",
+    "goal": 30,
+    "next_due_date": "2025-06-28"
+  },
+  {
+    "id": 7,
+    "name": "Fatima Ruqaiya",
+    "picture": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&fit=crop&w=500&h=500",
+    "email": "fatima.ruqaiya@example.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["entrepreneur"],
+    "bio": "Interested in building ideas and small business projects.",
+    "goal": 14,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 8,
+    "name": "Ummu Kulsum",
+    "picture": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?crop=entropy&fit=crop&w=500&h=500",
+    "email": "ummu.kulsum@example.com",
+    "days_since_contact": 14,
+    "status": "on-track",
+    "tags": ["college", "study group"],
+    "bio": "Study partner focused on learning and problem solving.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  }
+]

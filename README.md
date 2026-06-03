@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+KeenKeeper
+# 🌿 KeenKeeper
 
-## Getting Started
+Keenkeeper project was built using Next.js and it's App router. This project includes homepage which shows friends data fetched from JSON file, a timeline of interaction with friends and statistics of these interactions.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Technologies Used
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+| Technology | Purpose |
+|---|---|
+| **Next.js** | React framework for building the UI |
+| **App Router** (Next.js) | File-based page navigation and layouts |
+| **Tailwind CSS + DaisyUI** | Styling and responsiveness |
+| **Recharts** | Interactive pie chart for statistics |
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ Key Features
 
-## Learn More
+### 👥
+Fetching Data of Friends from JSON file and displaying them in cards in the Home page.
 
-To learn more about Next.js, take a look at the following resources:
+### 📞
+App details card showing more data about friends and buttons to interact with them via call, text or Video.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 📅 
+-A timeline page featuring interaction with friends.
+-A stats page displaying stats of this interactions using a Pie Chart.
